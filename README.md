@@ -32,7 +32,3 @@ Here the read only admins can only check details but cannot add or modify.
 #### flask
 #### sqlite3
 #### webbrowser
-
-# 
-# 
-<!-- #### Website : https://niketchaudhari.github.io/analyse/ -->
